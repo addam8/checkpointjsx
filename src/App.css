@@ -1,0 +1,7 @@
+.t{
+display: flex;
+justify-content:space-evenly ;
+}
+.avatar{
+    width: 200px;
+}
